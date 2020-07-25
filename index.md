@@ -11,18 +11,13 @@
 <img src="images/ms excel.png?raw=true"/>
 
 ---
-[Python](/pdf/Assignment3-bmbenne6.py)
-<img src="images/python.jpeg?raw=true"/>
 
----
+### Python
 
-### Category Name 2
+- [Reading CSV Files & Data Clean Up](/pdf/Excel_Statistics_ASU_Project.pdf)
+- [Pandas Remote Data Access & Statistical Plotting](/pdf/Excel_Statistics_ASU_Project.pdf)
+- [Exploratory Data Analysis & Regression Analysis](/pdf/Excel_Statistics_ASU_Project.pdf)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
