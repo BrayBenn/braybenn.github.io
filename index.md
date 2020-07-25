@@ -13,7 +13,7 @@
 ---
 
 ### Python
-
+Note: If the file does not automatically open after downloading, you may need to right click on the file and select "Show in folder" and then choose a program to open the file.
 - [Reading CSV Files & Data Clean Up](/pdf/CSV_Cleanup.py)
 - [Pandas Remote Data Access & Statistical Plotting](/pdf/Pandas_Plotting.py)
 - [Exploratory Data Analysis & Regression Analysis](/pdf/DataAnalysis_Regression.py)
