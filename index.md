@@ -14,9 +14,9 @@
 
 ### Python
 
-- [Reading CSV Files & Data Clean Up](/pdf/Excel_Statistics_ASU_Project.pdf)
-- [Pandas Remote Data Access & Statistical Plotting](/pdf/Excel_Statistics_ASU_Project.pdf)
-- [Exploratory Data Analysis & Regression Analysis](/pdf/Excel_Statistics_ASU_Project.pdf)
+- [Reading CSV Files & Data Clean Up](/pdf/CSV_Cleanup.py)
+- [Pandas Remote Data Access & Statistical Plotting](/pdf/Pandas_Plotting.py)
+- [Exploratory Data Analysis & Regression Analysis](/pdf/DataAnalysis_Regression.py)
 
 
 ---
