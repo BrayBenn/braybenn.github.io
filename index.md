@@ -3,7 +3,7 @@
 ---
 
 
-[SQL](/sample_page)
+[SQL](/pdf/sample_presentation.pdf)
 <img src="images/sql2.png?raw=true"/>
 
 ---
