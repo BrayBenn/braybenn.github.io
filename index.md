@@ -4,15 +4,15 @@
 
 
 [SQL](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sql2.png?raw=true"/>
 
 ---
 [Excel](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ms excel.png?raw=true"/>
 
 ---
 [Python](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/python.jpeg?raw=true"/>
 
 ---
 
