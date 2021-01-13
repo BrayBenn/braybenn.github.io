@@ -3,11 +3,11 @@
 ---
 
 
-[SQL](/pdf/SQL_Database_ASU_Project.pdf)
+[SQL - Working with Relational Databases](/pdf/SQL_Database_ASU_Project.pdf)
 <img src="images/sql2.png?raw=true"/>
 
 ---
-[Excel](/pdf/Excel_Statistics_ASU_Project.pdf)
+[Excel - Statistical Analysis, ANOVA, Regressions, etc](/pdf/Excel_Statistics_ASU_Project.pdf)
 <img src="images/ms excel.png?raw=true"/>
 
 ---
