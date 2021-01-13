@@ -19,6 +19,11 @@ Note: If the file does not automatically open after downloading, you may need to
 - [Exploratory Data Analysis & Regression Analysis](/pdf/DataAnalysis_Regression.py)
 
 
+---
+
+### R
+- [Predicting Likelihood of a Flight Delay](/pdf/CSV_Cleanup.py)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
