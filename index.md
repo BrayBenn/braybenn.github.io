@@ -17,6 +17,8 @@ Note: If the file does not automatically open after downloading, you may need to
 - [Reading CSV Files & Data Clean Up](/pdf/CSV_Cleanup.py)
 - [Pandas Remote Data Access & Statistical Plotting](/pdf/Pandas_Plotting.py)
 - [Exploratory Data Analysis & Regression Analysis](/pdf/DataAnalysis_Regression.py)
+- [Finding Distance Between Two Vectors (Pearson, Euclidean, Minkowski)](/pdf/Class_Similarity.py)
+- [Generating Recommendations Through Distance Measures](/pdf/Generating_Recommendations_With_Distance_Measures.py)
 
 
 ---
